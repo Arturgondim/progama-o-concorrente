@@ -1,0 +1,76 @@
+#choosePositionChoiceBox{ /*estilizando choice-box*/
+    -fx-background-color: #795833; /*cor do fundo da choice-box*/
+    -fx-border-color: #000000; /*cor da borda da choice-box*/
+}
+#choosePositionChoiceBox .menu-item { /*estilizando menu-item da choice-box*/
+    -fx-background-color: #795833; /*cor do fundo do menu-item da choice-box*/
+    -fx-border-color: #272424; /*cor do fundo do menu-item da choice-box*/
+    -fx-text-fill: #000000; /*cor do texto do menu-item da choice-box*/
+}
+#choosePositionChoiceBox .context-menu {/*estilizando constext-menu da choice-box*/
+    -fx-background-color: #272424; 
+    -fx-border-color: transparent; 
+
+}
+#choosePositionChoiceBox  .label{ /*estilizando labels*/
+    -fx-font-family: "Bodoni MT Condensed"; /*selecioando fonte*/
+    -fx-font-size: 22px; /*selecioando tamanho da fonte*/
+}
+
+#startButton{/*estilizando startButton*/
+    -fx-background-color: #795833; /*cor do fundo do startButton*/
+    -fx-border-color: #000000; /*cor da borda do startButton*/
+}
+
+#home{ /*estilizando home*/
+    -fx-background-color: #795833; /*cor do fundo do home*/
+    -fx-border-color: #000000; /*cor da borda do home*/
+}
+
+#reset{/*estilizando reset*/
+    -fx-background-color: #795833; /*cor do fundo do reset*/
+    -fx-border-color: #000000; /*cor da borda do reset*/
+}
+
+#blueSlider{/*estilizando blueSlider*/
+    -fx-background-color: #000728; /*cor do fundo do blueSlider*/
+    -fx-border-color: #000000; /*cor da borda do blueSlider*/
+
+}
+#blueSlider .track {/*estilizando blueSlider track*/
+    -fx-background-color: #000000; /* Cor do centro (faixa) */
+    -fx-background-insets: 0, 1; /* Ajusta a posição da faixa */
+    -fx-background-radius: 5px; /* Arredonda as bordas da faixa */
+}
+#blueSlider .thumb{/*estilizando blueslider thumb*/
+    -fx-background-color: #000000; /* Cor do decalque */
+    -fx-background-radius: 50%; /* Torna o decalque redondo */
+    -fx-pref-width: 20px; /* Largura do decalque */
+    -fx-pref-height: 20px; /* Altura do decalque */
+
+}
+
+#redSlider{/*estilizando redSlider*/
+    -fx-background-color: #3C0209; /*cor do fundo do redSlider*/
+    -fx-border-color: #000000; /*cor da borda do redSlider*/
+}
+#redSlider .track {/*estilizando redSlider track*/
+    -fx-background-color: #000000; /* Cor do centro (faixa) */
+    -fx-background-insets: 0, 1; /* Ajusta a posição da faixa */
+    -fx-background-radius: 5px; /* Arredonda as bordas da faixa */
+}
+#redSlider .thumb{/*estilizando redSlider thumb*/
+    -fx-background-color: #000000; /* Cor do decalque */
+    -fx-background-radius: 50%; /* Torna o decalque redondo */
+    -fx-pref-width: 20px; /* Largura do decalque */
+    -fx-pref-height: 20px; /* Altura do decalque */
+
+}
+
+
+
+
+
+
+
+    
